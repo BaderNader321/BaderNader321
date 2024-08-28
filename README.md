@@ -1,5 +1,4 @@
-#### **Aspiring Data Analyst | Passionate about helping businesses make smarter decisions with data.**
-<br>
+#### Aspiring Data Analyst | Passionate about helping businesses make smarter decisions with data
 **Programming Languages:** Python, PostgreSQL, MySQL
 <br>
 **Frameworks & Libraries:** 
