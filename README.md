@@ -1,5 +1,5 @@
 #### Aspiring Data Analyst | Passionate about helping businesses make smarter decisions with data
-**Programming Languages:** Python, PostgreSQL, MySQL
+**Databases:** MySQL, PostgreSQL
 <br>
 **Frameworks & Libraries:** Pandas, Numpy, Matplotlib, Seaborn
 <br>
